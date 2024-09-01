@@ -7,14 +7,16 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+1 Gold] from [Cattle] tiles in this city",
-					"[+1 Gold] from [Sheep] tiles in this city",
-					"[+1 Gold] from [Deer] tiles in this city",
-					"[+1 Gold] from [Bananas] tiles in this city",
-					"[+1 Gold] from [Wheat] tiles in this city",
-					"[+1 Gold] from [Stone] tiles in this city",
-					"[+1 Gold] from [Fish] tiles in this city",
-					"[+1 Gold] from [Bison] tiles in this city"],
+		"uniques": [
+			"[+1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Gold] from [Sheep] tiles [in this city]",
+			"[+1 Gold] from [Deer] tiles [in this city]",
+			"[+1 Gold] from [Bananas] tiles [in this city]",
+			"[+1 Gold] from [Wheat] tiles [in this city]",
+			"[+1 Gold] from [Stone] tiles [in this city]",
+			"[+1 Gold] from [Fish] tiles [in this city]",
+			"[+1 Gold] from [Bison] tiles [in this city]"
+		],
 		"requiredTech": "Currency"
 	},
 	{
